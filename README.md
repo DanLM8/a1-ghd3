@@ -7,6 +7,7 @@ README Quality
 I created a basic stick figure drawing, with added reactivity. Each part of the figure is a separate shape, line, or path. 
 <img width="527" height="482" alt="image" src="https://github.com/user-attachments/assets/8717fde0-7d6d-4f56-aed9-24d2235f5260" />
 
+WARNING: For some reason this link does not work when clicked directly here. However, when I put it in my browser, it works. 
 [https://danlm8.github.io/a1-ghd3/](url)
 
 Technical and Design Achievements: 
